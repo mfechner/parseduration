@@ -1,4 +1,4 @@
-module github.com/SiverPineValley/parseduration
+module github.com/mfechner/parseduration
 
 go 1.15
 
